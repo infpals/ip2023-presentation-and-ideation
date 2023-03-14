@@ -1,6 +1,6 @@
 # Materials for Presentation and Ideation by Christina Starko
 
-This repository contains materials for the Presentation &amp; Ideation Workshop given by Christina Starko Leaders in Week 7 semester 2 school year 2022/23.
+This repository contains materials for the Presentation &amp; Ideation Workshop given by Christina Starko in Week 7 semester 2 school year 2022/23.
 
 Matrials consists of:
 - Main Presentation
